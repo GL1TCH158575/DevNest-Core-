@@ -1,5 +1,8 @@
 function Home() {
-    return <h1>EU JOÃO GABRYEL, AMO, MINHA FAMÍLIA E INCLUSIVE AMO A MINHA FUTURA ESPOSA, Maria Eduarda ❤️</h1>
+    return <h1>EU JOÃO GABRYEL, AMO MINHA FAMÍLIA.
+        AFASTE-SE:
+         Em construção 🚧
+    </h1>
 }
 
 export default Home;
