@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>EU JOÃO GABRYEL, AMO MINHA FAMÍLIA. AFASTE-SE: 🚧Em construção💻</h1>
+    <h1>🚀 Building my future one line of code at a time 💻</h1>
   );
 }
 
