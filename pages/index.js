@@ -1,7 +1,5 @@
 function Home() {
-  return (
-    <h1>EU JOÃO GABRYEL, AMO MINHA FAMÍLIA. AFASTE-SE: 🚧Em construção💻</h1>
-  );
+  return <h1>Maria Eduarda, eu amo você, se você me ama dá uma risadinha!</h1>;
 }
 
 export default Home;
